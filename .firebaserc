@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "web-game-edf97": {
+      "hosting": {
+        "web-game": [
+          "web-game-edf97"
+        ]
+      }
+    }
+  }
+}
